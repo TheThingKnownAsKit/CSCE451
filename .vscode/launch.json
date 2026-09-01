@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/emoody/Documents/College/CSCE451/emoody4_pa0",
-      "program": "/home/emoody/Documents/College/CSCE451/emoody4_pa0/build/Debug/outDebug",
+      "cwd": "/home/emoody/Repos/Homework/CSCE451",
+      "program": "/home/emoody/Repos/Homework/CSCE451/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
